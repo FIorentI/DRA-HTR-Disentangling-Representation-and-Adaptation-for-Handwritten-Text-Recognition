@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/venv/
+/models_train/
+/src/train/wandb/
+/__pycache__/
+__pycache__/
+*.pyc
+.idea/
+*.pt
+src/train/domain_adaptation/wandb/
+src/train/domain_adaptation/checkpoint/
+/outputs/gemini_correction_cache*.jsonl
+.codex-tmp
+outputs
+
+
+
